@@ -1,0 +1,27 @@
+body
+{
+    background-color: blueviolet;
+}
+#mover
+{
+    position: absolute;
+    left:10px;
+}
+.borde
+{
+    border:2px solid blue;
+}
+.negrita
+{
+    font-weight: bold;
+}
+hr
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.pequena
+{
+    width: 25px;
+    height: 25px;
+}
